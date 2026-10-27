@@ -1,1 +1,0 @@
-BEFORE UPLOADING: Replace REPLACE-WITH-YOUR-DOMAIN.ca in sitemap.xml and robots.txt with your real website domain. XML sitemap URLs must be absolute. Then upload the contents of prairie-website to the published website root, and submit sitemap.xml in Google Search Console. All original website assets and behavior are preserved.
